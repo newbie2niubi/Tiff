@@ -10,7 +10,7 @@ public class Person {
 
 	@Override
 	public String toString() {
-		return "Person [name=" + name + ", age=" + age + "]";
+		return name + " is a cute girl of " + age + " years old";
 	}
 	
 	
