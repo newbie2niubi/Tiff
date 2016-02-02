@@ -1,0 +1,1 @@
+i still dont know how to initialize an input.
