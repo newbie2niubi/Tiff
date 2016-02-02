@@ -1,1 +1,2 @@
 i still dont know how to initialize an input.
+dude, I finally figured out how to insert characters by simplying press the i key on the keyboard!
